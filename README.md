@@ -4,7 +4,7 @@
 
 ### Third Heading
 
-* What is this *
-** and this **
+* Item 1
+* Item 2
 
 This is the README file
